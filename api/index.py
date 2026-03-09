@@ -63,8 +63,8 @@ def handle_interactions():
                 "fields": [
                     {"name": "[運勢]", "value": selected_result, "inline": True}
                 ],
-                "thumbnail": {"url": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"},
-                "url": "https://zenn.dev/articles/0b3ce05e269d70/"
+                "thumbnail": {"url": "https://3.bp.blogspot.com/-cPqdLavQBXA/UZNyKhdm8RI/AAAAAAAASiM/NQy6g-muUK0/s400/syougatsu2_omijikuji2.png"},
+                "url": "https://3.bp.blogspot.com/-cPqdLavQBXA/UZNyKhdm8RI/AAAAAAAASiM/NQy6g-muUK0/s400/syougatsu2_omijikuji2.png"
             }
 
             return jsonify({
